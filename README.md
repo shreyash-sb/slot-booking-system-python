@@ -30,16 +30,11 @@ This project is developed as an academic/internship project to demonstrate file 
 ## Project Structure
 
 Slot-Booking-Reminder-System/  
-├── src/  
-│ └── booking_system.py  
-├── data/  
-│ ├── active_bookings.json  
-│ └── completed_bookings.json  
-├── docs/  
-│ └── screenshots/  
-├── README.md  
-├── requirements.txt  
-└── .gitignore
+├── booking_system.py  
+├── active_bookings.json  
+├── completed_bookings.json  
+├── Screenshots/  
+└── README.md
 
 ---
 
@@ -49,7 +44,7 @@ Slot-Booking-Reminder-System/
    git clone https://github.com/your-username/Slot-Booking-Reminder-System.git
 
 2. Navigate to the project directory:  
-   cd Slot-Booking-Reminder-System/src
+   cd Slot-Booking-Reminder-System
 
 3. Run the program:  
    python booking_system.py
@@ -68,6 +63,26 @@ Slot-Booking-Reminder-System/
 6. Search Booking
 7. View Completed Bookings
 8. Exit
+
+---
+
+## Sample Program Output
+
+--- Create New Booking ---  
+Enter customer name: Shri  
+Enter phone number: 123456789  
+Enter reason for booking: Servicing  
+Enter date & time (YYYY-MM-DD HH:MM): 2026-02-08 09:45  
+Booking created successfully.
+
+--- Active Bookings ---  
+ID: 5caaac | Name: Shri | Phone: 123456789 | Reason: Servicing | Time: 2026-02-08 09:45
+
+--- Reminder Check ---  
+Reminder: Shri | Reason: Servicing | Time: 2026-02-08 09:45 | Phone: 123456789
+
+--- Completed Bookings ---  
+ID: 5caaac | Name: Shri | Phone: 123456789 | Reason: Servicing | Time: 2026-02-08 09:45
 
 ---
 
@@ -93,5 +108,5 @@ Slot-Booking-Reminder-System/
 
 ---
 
-Developed by:Shreyash Sitaram Bobalade
-Prn:246109065
+Developed by: Shreyash Sitaram Bobalade  
+PRN: 246109065
