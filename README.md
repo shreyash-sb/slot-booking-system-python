@@ -41,7 +41,7 @@ Slot-Booking-Reminder-System/
 ## How to Run the Project
 
 1. Clone the repository:  
-   git clone https://github.com/your-username/Slot-Booking-Reminder-System.git
+   git clone https://github.com/shreyash-sb/slot-booking-system-python
 
 2. Navigate to the project directory:  
    cd Slot-Booking-Reminder-System
