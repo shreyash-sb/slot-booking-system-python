@@ -109,6 +109,6 @@ ID: 5caaac | Name: Shri | Phone: 123456789 | Reason: Servicing | Time: 2026-02-0
 ---
 
 ## 📄 License
-This project is intended for educational and portfolio purposes.
-Developed by: Shreyash Bobalade  
-PRN: 246109065
+-This project is intended for educational and portfolio purposes.
+-Developed by: Shreyash Bobalade  
+-PRN: 246109065
