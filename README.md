@@ -108,5 +108,7 @@ ID: 5caaac | Name: Shri | Phone: 123456789 | Reason: Servicing | Time: 2026-02-0
 
 ---
 
-Developed by: Shreyash Sitaram Bobalade  
+## 📄 License
+This project is intended for educational and portfolio purposes.
+Developed by: Shreyash Bobalade  
 PRN: 246109065
